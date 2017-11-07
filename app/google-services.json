@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787112732592",
+    "project_id": "gcmpushnotification-184706"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787112732592:android:a6ae00635d9ef266",
+        "android_client_info": {
+          "package_name": "net.respina.teslaa.gcm_tester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787112732592-317d0743bu6u7jmenie0g77nn0cdnnhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9iHgYjH6kIHRL5IkjbyfC8Yxkuill_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
